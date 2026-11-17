@@ -3,7 +3,7 @@ name = "SigmaOS-bash-completion"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "bash-completion component"
+description = "SigmaOS SigmaOS-bash-completion component"
 upstream = []
 
 [contract]
